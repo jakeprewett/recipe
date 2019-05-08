@@ -1,0 +1,85 @@
+body,
+figure {/*one m is about 15 pizels*/
+  margin: 0; /*all sides*/
+  margin: 5em 0 5em 2em; /*top right bottom left*/
+  margin: 0 10em 0; /*top left-right bottom*/
+  margin: 0 0; /*top-bottom left-right*/
+  margin-top; 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+dl,
+ol,
+ul {
+  margin-top: 1em;
+  margin-bottom: 1em;
+
+}
+li {margin-top: 1em;
+margin-bottom: 1em;
+}
+}
+html {
+  background-color: #0080A8;
+  font: 100%/1.15 sans-serif/#300;
+}
+
+
+body {
+  background-color: #00AEEF;
+  padding: 3em;
+  border: 2px dashed #000;
+  border-top: 2em solid #f00;
+  margin: 2em;
+  margin-top: 5em;
+}
+
+img {
+  width: 50%;
+  max-width: 100%;
+  height: 50%;
+}
+
+/* --- my styles ---*/
+
+body {
+  font-family: "Times New Roman" Georgia, serif;
+  font-family: Arial, "trebuchet MS", sans-serif;
+  font-family: Tahoma, Verdana, Arial, "Trebuchet MS", sans-serif;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  margin-top: 1em;}
+
+h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  margin-top: 1em;}
+
+h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  margin-top: 1em;
+}
+
+h4 {
+   margin-bottom: 1em;
+   font-family: Arial, "trebuchet MS", sans-serif;
+}
+
+h1 {
+  font-size: 2.8em;
+}
+
+p {
+  margin-top: 2em;
+}
+
+figcaption {
+  text-align: center;
+}
